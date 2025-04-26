@@ -4,6 +4,7 @@ import * as SplashScreen from 'expo-splash-screen';
 import { useEffect, useState } from 'react';
 import { View, ActivityIndicator } from 'react-native';
 
+// Sign in
 import SignIn from './(tabs)/signIn';
 
 SplashScreen.preventAutoHideAsync();
